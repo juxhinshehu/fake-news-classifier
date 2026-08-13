@@ -31,7 +31,7 @@ This will create the environment with all required dependencies.
 ### 3. Activate the environment
 
 ```bash
-conda activate nlp_proj_env
+conda activate fake_news_classifier_env
 ```
 
 ---
