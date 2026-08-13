@@ -34,4 +34,7 @@ This will create the environment with all required dependencies.
 conda activate fake_news_classifier_env
 ```
 
+### 4. Run the project
+After activating the environment, launch Jupyter and open `FakeNewsClassifier.ipynb` Run all cells to train and evaluate the model.
+
 ---
