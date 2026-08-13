@@ -14,6 +14,8 @@ If you don’t have it installed:
 
 https://www.anaconda.com/products/distribution
 
+> This project uses **Python 3.11** (configured via the conda environment).
+
 ---
 
 ### 2. Create the environment
