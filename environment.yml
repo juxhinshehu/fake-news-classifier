@@ -1,4 +1,4 @@
-name: npl_proj_env
+name: fake_news_classifier_env
 channels:
   - defaults
 dependencies:
@@ -191,4 +191,4 @@ dependencies:
       - websocket-client==1.9.0
       - widgetsnbextension==4.0.15
       - wrapt==2.1.2
-prefix: /opt/anaconda3/envs/npl_proj_env
+prefix: /opt/anaconda3/envs/fake_news_classifier_env
