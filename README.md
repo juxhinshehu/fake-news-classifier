@@ -31,7 +31,7 @@ This will create the environment with all required dependencies.
 ### 3. Activate the environment
 
 ```bash
-conda activate npl_proj_env
+conda activate nlp_proj_env
 ```
 
 ---
